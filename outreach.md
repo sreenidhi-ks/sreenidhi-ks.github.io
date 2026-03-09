@@ -9,5 +9,4 @@ I believe science becomes more meaningful when it is shared in the language peop
 
 Along with explaining scientific concepts, I also write about scientific temper, climate and environmental concerns, and the importance of questioning pseudoscientific claims. Through these writings, I try to encourage curiosity, critical thinking, and broader public engagement with science. Promoting scientific temper—recognised as a fundamental duty under **Article 51A(h) of the Indian Constitution**—is also an important motivation behind these writings.
 
-Selected writings are available here:  
-**http://linktr.ee/sreenidhi.ks**
+Selected writings are available [here](http://linktr.ee/sreenidhi.ks).
