@@ -2,6 +2,7 @@
 layout: page
 title: About
 ---
+<img src="Profile_pic.jpg" alt="Sreenidhi K. S." width="220" style="float:right; margin-left:20px;">
 
 ## Dr. Sreenidhi K. S.
 
