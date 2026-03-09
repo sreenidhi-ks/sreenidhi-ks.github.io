@@ -1,3 +1,6 @@
 theme: minima
 title: Dr. Sreenidhi K. S.
 description: Postdoctoral Fellow (Alexander von Humboldt Fellow) | GFZ Potsdam
+header_pages:
+  - index.md
+  - research.md
